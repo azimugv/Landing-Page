@@ -4,7 +4,7 @@
 }
 header{
     height: 800px;
-    background: url('/images/banner/banner1.png');
+    background: url('../images/banner/banner1.png');
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
@@ -103,7 +103,7 @@ font-weight: 700;
 /* Call to action */
 
 .call-to-action{
-    background: url('/images/gradient2.png'), url('/images/watch.png');
+    background: url('../images/gradient2.png'), url('../images/watch.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center, center;
