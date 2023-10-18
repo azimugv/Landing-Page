@@ -35,3 +35,39 @@ line-height: 26px;
     background: #F15B22;
     padding: 20px 25px;
 }
+
+/* last-year */
+
+.last-year{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 140px auto;
+}
+.last-year-title{
+    color: #151414;
+font-size: 40px;
+font-weight: 700;
+}
+.last-year-desc{
+    max-width: 416px;
+    color:  #444343;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px; 
+margin: 24px 0px 16px;
+}
+
+.last-year-items li{
+    list-style: none;
+    margin-bottom: 8px;
+    color: #444343;
+    font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+i{
+    color: #16D887;
+    margin-right: 15px;
+
+}
