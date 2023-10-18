@@ -35,7 +35,10 @@ line-height: 26px;
     background: #F15B22;
     padding: 20px 25px;
 }
-
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 /* last-year */
 
 .last-year{
@@ -70,4 +73,15 @@ i{
     color: #16D887;
     margin-right: 15px;
 
+}
+/* My Plans */
+
+.my-plans, .my-plans-title{
+    text-align: center;
+}
+
+.my-plans-container{
+    display: flex;
+    gap: 99px;
+    justify-content: space-between;
 }
